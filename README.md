@@ -19,7 +19,7 @@ Site básico com intuito de treinar habilidades em Web na matéria opcional de P
 
 ### 📄 Licença
 
-Este projeto está sob domínio de Pedro Victor.
+- [ ] Este projeto está sob domínio de Pedro Victor.
 
 ### 📞 Contato
 
